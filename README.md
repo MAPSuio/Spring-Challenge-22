@@ -30,4 +30,4 @@ I tillegg vil vi dele ut kr 200 til en såkalt lucky loser. Alle som har klart m
 På grunn av lover og regler og annet kan vi ikke gi vinnerlaget en bunke 50-lapper i en strikk, så det blir istedenfor et gavekort hos en matbutikk (sannsynligvis Kiwi).
 
 ## Ekstra
-I år er alle oppgavene relatert til vårt kjære Institutt for Informatikk. Historiene er basert på ting vi har lest på jodel, hørt på fredagsprat, eller selv har erfart! En spesiell takk til [Sarek](https://github.com/sarsko), [Jakob](https://github.com/jakobkhansen), [Jonathan](https://github.com/wardell894) og [Sergey](https://github.com/sergiosja) for å ha laget oppgavetekst, oppgavesett, samt verifikatorer.
+I år er alle oppgavene relatert til vårt kjære Institutt for Informatikk. Historiene er basert på ting vi har lest på jodel, hørt på fredagsprat, eller selv har erfart! En spesiell takk til [Sarek](https://github.com/sarsko), [Jakob](https://github.com/jakobkhansen), [Jonathan](https://github.com/wardell894) og [Sergey](https://github.com/sergiosja) for å ha laget oppgavetekst, oppgavesett, samt verifikatorer for hver av oppgavene.
