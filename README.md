@@ -22,10 +22,10 @@ På grunn av lover og regler og annet kan vi ikke gi vinnerlaget en bunke 50-lap
 ## Regler
 - Lagene kan bestå av 1, 2 eller 3 personer. Alle lagene må ha et unikt navn.
 - Oppgavene kan løses i hvilket som helst språk.
-- Hver godkjente oppgave teller 1 poeng. Det første laget til å løse en oppgave får 0,2 ekstra poeng.
-- Oppgaver løst i [Malbolge](https://esolangs.org/wiki/Malbolge) teller ti (10) ekstra poeng.
+- Oppgaver løst i [Malbolge](https://esolangs.org/wiki/Malbolge) teller fem (5) ekstra poeng.
 - For å få en oppgave godkjent, må man vise at algoritmen gir riktig output. Rekk opp en hånd, så kommer
 en MAPS-representant bort for å verifisere 😄
+- Evenuelle delte plasseringer splittes ved å se på hvem som løste oppgavene først.
 
 ## Ekstra
 I år er alle oppgavene relatert til vårt kjære Institutt for Informatikk. Historiene er basert på ting vi har lest på jodel, hørt på fredagsprat, eller selv har erfart! En spesiell takk til [Sarek](https://github.com/sarsko), [Jakob](https://github.com/jakobkhansen), [Jonathan](https://github.com/wardell894) og [Sergey](https://github.com/sergiosja) for å ha laget oppgavetekst, oppgavesett, samt verifikatorer.
