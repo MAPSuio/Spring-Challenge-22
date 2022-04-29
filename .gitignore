@@ -4,23 +4,19 @@
 /Catwalken/generator.py
 /Catwalken/README.md
 /Catwalken/input
-/Catwalken/img
 /Catwalken/samples
 
-/CYB Bursdag/img
 /CYB Bursdag/samples
 /CYB Bursdag/input
 /CYB Bursdag/README.md
 /CYB Bursdag/solution.py
 
-/IFI Skitur 1/img
 /IFI Skitur 1/samples
 /IFI Skitur 1/generator.py
 /IFI Skitur 1/input
 /IFI Skitur 1/README.md
 /IFI Skitur 1/solution.py
 
-/IFI Skitur 2/img
 /IFI Skitur 2/samples
 /IFI Skitur 2/generator.py
 /IFI Skitur 2/input
@@ -28,8 +24,6 @@
 /IFI Skitur 2/solution_sarek.py
 /IFI Skitur 2/solution_sergey.py
 
-
-/Vaksiner \1/img
 /Vaksiner \1/samples
 /Vaksiner \1/img
 /Vaksiner \1/answer.py
@@ -39,7 +33,6 @@
 /Vaksiner \1/README.md
 
 
-/lil test
 
 
 
