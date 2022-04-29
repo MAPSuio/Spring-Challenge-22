@@ -1,6 +1,6 @@
 /AST1010/README.md
 
-/bedpres
+/Bedpres
 
 /Catwalken/answer.py
 /Catwalken/generator.py
@@ -37,20 +37,29 @@
 /Pensumbok/input
 /Pensumbok/README.md
 
-/Vaksiner \1/samples
-/Vaksiner \1/img
-/Vaksiner \1/answer.py
-/Vaksiner \1/generator.py
-/Vaksiner \1/input
-/Vaksiner \1/names.txt
-/Vaksiner \1/README.md
+/Vaksiner 1/samples
+/Vaksiner 1/answer.py
+/Vaksiner 1/generator.py
+/Vaksiner 1/input
+/Vaksiner 1/names.txt
+/Vaksiner 1/README.md
 
+/Vaksiner 2/samples
+/Vaksiner 2/solution.py
+/Vaksiner 2/generator.py
+/Vaksiner 2/input
+/Vaksiner 2/navn.txt
+/Vaksiner 2/README.md
 
+/Velkommen til IFI/solution.py
+/Velkommen til IFI/samples
+/Velkommen til IFI/generator.py
+/Velkommen til IFI/input
+/Velkommen til IFI/README.md
 
-
-
-
-/ifi-skitur2
-/pensumboker
-/vaksiner-i-ballene-1
-/visste-du-at
+/Visste du at/samples
+/Visste du at/generator.py
+/Visste du at/solution.py
+/Visste du at/ord.txt
+/Visste du at/input
+/Visste du at/README.md
