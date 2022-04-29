@@ -1,5 +1,3 @@
-/AST1010/README.md
-
 /Bedpres/generator.py
 /Bedpres/README.md
 /Bedpres/solution.py
@@ -10,6 +8,7 @@
 /Catwalken/README.md
 /Catwalken/input
 /Catwalken/samples
+/Catwalken/sergey_solver.py
 
 /CYB Bursdag/samples
 /CYB Bursdag/input
@@ -39,6 +38,8 @@
 /Pensumbok/generator.py
 /Pensumbok/input
 /Pensumbok/README.md
+
+/Siste semester/README.md
 
 /Vaksiner 1/samples
 /Vaksiner 1/answer.py
