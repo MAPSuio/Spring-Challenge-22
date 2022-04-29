@@ -2,7 +2,7 @@
 Etter 4 år er Maps Spring Challenge endelig tilbake!
 
 ## Hvor og når?
-Fra og med klokken 10:00 på lørdag 30. april vil MAPS stille med mat, drikke og heliumballonger på [Caml](https://ifirom.no/3/3438). Vi tilgjengeliggjør oppgavene klokken 11:00, og vil holde på frem til 15:00. Det er også mulig å delta digitalt, for dem som ønsker det :)
+Fra og med klokken 10:00 på lørdag 30. april vil MAPS stille med mat, drikke og heliumballonger på [Caml](https://ifirom.no/3/3438). Vi tilgjengeliggjør oppgavene klokken 11:00, og vil holde på frem til 15:00. Det er også mulig å delta digitalt, for dem som ønsker det 😄
 
 ## Format på oppgaver
 Hver mappe i repoet består av to mapper, en README og en input-fil. READMEen gir en generell beskrivelse av oppgaven, formatet på input og output, samt et eksempel. Den ene mappen består av bildet i READMEen, og den andre mappen inneholder eksempelet i READMEen.
@@ -23,7 +23,7 @@ I tillegg vil vi dele ut kr 200 til en såkalt lucky loser. Alle som har klart m
 - Hver godkjente oppgave teller 1 poeng. Det første laget til å løse en oppgave får 0,2 ekstra poeng.
 - Oppgaver løst i [Malbolge](https://esolangs.org/wiki/Malbolge) teller ti (10) ekstra poeng.
 - For å få en oppgave godkjent, må man vise at algoritmen gir riktig output. Rekk opp en hånd, så kommer
-en MAPS-representant bort for å verifisere :)
+en MAPS-representant bort for å verifisere 😄
 
 ## Ekstra
-I år er alle oppgavene relatert til vårt kjære Institutt for Informatikk. Historiene er basert på ting vi har lest på jodel, hørt på fredagsprat, eller selv har erfart! En spesiell takk til Sarek, Jakob, Jonathan og Sergey for å ha laget oppgavetekst, oppgavesett, samt verifikatorer.
+I år er alle oppgavene relatert til vårt kjære Institutt for Informatikk. Historiene er basert på ting vi har lest på jodel, hørt på fredagsprat, eller selv har erfart! En spesiell takk til [Sarek](https://github.com/sarsko), [Jakob](https://github.com/jakobkhansen), [Jonathan](https://github.com/wardell894) og [Sergey](https://github.com/sergiosja) for å ha laget oppgavetekst, oppgavesett, samt verifikatorer.
