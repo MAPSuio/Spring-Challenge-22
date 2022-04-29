@@ -17,6 +17,8 @@ Totalt er premiepotten på kr 1300. Pallen blir fordelt slik:
 
 I tillegg vil vi dele ut kr 200 til en såkalt lucky loser. Alle som har klart minst 2 oppgaver vil kvalifisere til lucky loser, som blir valgt tilfeldig klokken 15:00.
 
+På grunn av lover og regler og annet kan vi ikke gi vinnerlaget en bunke 50-lapper i en strikk, så det blir istedenfor et gavekort hos en matbutikk (sannsynligvis Kiwi).
+
 ## Regler
 - Lagene kan bestå av 1, 2 eller 3 personer. Alle lagene må ha et unikt navn.
 - Oppgavene kan løses i hvilket som helst språk.
