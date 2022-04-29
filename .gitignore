@@ -1,3 +1,5 @@
+/AST1010/README.md
+
 /bedpres
 
 /Catwalken/answer.py
@@ -24,6 +26,17 @@
 /IFI Skitur 2/solution_sarek.py
 /IFI Skitur 2/solution_sergey.py
 
+/Kantina/samples
+/Kantina/input
+/Kantina/README.md
+/Kantina/solution.py
+/Kantina/generator.py
+
+/Pensumbok/answer.py
+/Pensumbok/generator.py
+/Pensumbok/input
+/Pensumbok/README.md
+
 /Vaksiner \1/samples
 /Vaksiner \1/img
 /Vaksiner \1/answer.py
@@ -38,7 +51,6 @@
 
 
 /ifi-skitur2
-/kantina
 /pensumboker
 /vaksiner-i-ballene-1
 /visste-du-at
