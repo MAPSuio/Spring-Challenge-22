@@ -7,7 +7,7 @@ Etter å ha innsett at bilder av tester var for utrygt, ble det besluttet at all
 ### Input
 Input starter med to heltall, `p` og `v`, hvor `p` er antall personer som har sagt at de skal være med, mens `v` er antall vennskap. Deretter følger `v` linjer bestående av to heltall `a` og `b`, som betyr at `a` og `b` er venner.
 
-**NB!** Det er ikke gitt at det er `p` personer på bussen.
+**NB!** På grunn av det enorme sosiale presset valgte alle personer uten venner å droppe turen i siste liten 😞🤙
 
 ### Output
 Det færreste antallet personer som trenger å teste seg for at alle skal få bli med til Hemsedal.
