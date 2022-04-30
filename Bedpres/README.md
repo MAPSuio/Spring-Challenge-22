@@ -18,7 +18,7 @@ Antall grupper som gikk glipp av bedriftspresentasjonen.
 
 ### Sample input
 ```
-10 7
+7 7
 1
 9
 2
@@ -31,5 +31,5 @@ Cornelia laaser doera
 
 ### Sample output
 ```
-2
+4
 ```
