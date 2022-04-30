@@ -1,6 +1,15 @@
 # Spring Challenge 2022
 Etter 4 år er Maps Spring Challenge endelig tilbake!
 
+## Resultater
+Plassering | Lagnavn | Medlemmer
+:---: | :---: | :---
+1 | Emil | [Emil Eriksmoen Stensland](https://github.com/EmilEriksmoenStensland), [Simon Toivo Telhaug](https://github.com/stoivo)
+2 | W3Schooled | [Eric Tepohe](https://github.com/EricSvebakk), [Filip Horvei](https://github.com/filiphorvei)
+3 | VOID | [Marius Brekka](https://github.com/betamini), Synnøve Nordvik Helgesen
+Lucky loser | Beef med digøk | [Andreas Askim Vatne](https://github.com/aav-98)
+
+
 ## Hvor og når?
 Fra og med klokken 10:00 på lørdag 30. april vil MAPS stille med mat, drikke og heliumballonger på [Caml](https://ifirom.no/3/3438). Vi tilgjengeliggjør oppgavene klokken 11:00, og vil holde på frem til 15:00. Det er også mulig å delta digitalt, for dem som ønsker det 😄
 
@@ -22,8 +31,8 @@ en MAPS-representant bort for å verifisere 😄
 ## Premiering
 Totalt er premiepotten på kr 1300. Pallen blir fordelt slik:
 1. kr 500,-
-2. kr 300,-
-3. kr 300,-
+2. kr 350,-
+3. kr 250,-
 
 I tillegg vil vi dele ut kr 200 til en såkalt lucky loser. Alle som har klart minst 2 oppgaver vil kvalifisere til lucky loser, som blir valgt tilfeldig klokken 15:00.
 
