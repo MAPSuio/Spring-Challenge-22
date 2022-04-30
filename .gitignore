@@ -1,69 +1,69 @@
 /Bedpres/generator.py
-/Bedpres/README.md
+# /Bedpres/README.md
 /Bedpres/solution.py
-/Bedpres/input
+# /Bedpres/input
 
 /Catwalken/answer.py
 /Catwalken/generator.py
-/Catwalken/README.md
-/Catwalken/input
-/Catwalken/samples
+# /Catwalken/README.md
+# /Catwalken/input
+# /Catwalken/samples
 /Catwalken/sergey_solver.py
 
-/CYB Bursdag/samples
-/CYB Bursdag/input
-/CYB Bursdag/README.md
+# /CYB Bursdag/samples
+# /CYB Bursdag/input
+# /CYB Bursdag/README.md
 /CYB Bursdag/solution.py
 
-/IFI Skitur 1/samples
+# /IFI Skitur 1/samples
 /IFI Skitur 1/generator.py
-/IFI Skitur 1/input
-/IFI Skitur 1/README.md
+# /IFI Skitur 1/input
+# /IFI Skitur 1/README.md
 /IFI Skitur 1/solution.py
 
-/IFI Skitur 2/samples
+# /IFI Skitur 2/samples
 /IFI Skitur 2/generator.py
-/IFI Skitur 2/input
-/IFI Skitur 2/README.md
+# /IFI Skitur 2/input
+# /IFI Skitur 2/README.md
 /IFI Skitur 2/solution_sarek.py
 /IFI Skitur 2/solution_sergey.py
 
-/Kantina/samples
-/Kantina/input
-/Kantina/README.md
+# /Kantina/samples
+# /Kantina/input
+# /Kantina/README.md
 /Kantina/solution.py
 /Kantina/generator.py
 
 /Pensumboker/answer.py
 /Pensumboker/generator.py
-/Pensumboker/input
-/Pensumboker/README.md
+# /Pensumboker/input
+# /Pensumboker/README.md
 
-/Siste semester/README.md
+# /Siste semester/README.md
 
-/Vaksiner 1/samples
+# /Vaksiner 1/samples
 /Vaksiner 1/answer.py
 /Vaksiner 1/generator.py
-/Vaksiner 1/input
+# /Vaksiner 1/input
 /Vaksiner 1/names.txt
-/Vaksiner 1/README.md
+# /Vaksiner 1/README.md
 
-/Vaksiner 2/samples
+# /Vaksiner 2/samples
 /Vaksiner 2/solution.py
 /Vaksiner 2/generator.py
-/Vaksiner 2/input
+# /Vaksiner 2/input
 /Vaksiner 2/navn.txt
-/Vaksiner 2/README.md
+# /Vaksiner 2/README.md
 
 /Velkommen til IFI/solution.py
-/Velkommen til IFI/samples
+# /Velkommen til IFI/samples
 /Velkommen til IFI/generator.py
-/Velkommen til IFI/input
-/Velkommen til IFI/README.md
+# /Velkommen til IFI/input
+# /Velkommen til IFI/README.md
 
-/Visste du at/samples
+# /Visste du at/samples
 /Visste du at/generator.py
 /Visste du at/solution.py
 /Visste du at/ord.txt
-/Visste du at/input
-/Visste du at/README.md
+# /Visste du at/input
+# /Visste du at/README.md
